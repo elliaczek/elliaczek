@@ -12,7 +12,7 @@ im pretty awkward around people i dont know so pls dont take it personally if i 
 aside from that, i <b>love</b> sitting n cuddling with others even if we dont know each other!! ⸜(｡˃ ᵕ ˂ )⸝♡ <b>so c+h enc ♡</b>
 
 
-i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b>w2i</b> so i can see your message sooner or later ♡ <br>
+i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b>w2i</b> so i can see your message sooner or later (ᵕ—ᴗ—) <br>
 
 ╰─────────────── ⋆｡°✩°｡⋆ ───────────────╯
 <p align="center">
