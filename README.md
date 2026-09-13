@@ -4,7 +4,7 @@
   <img src="7aab439a43aaa16234eb1318b9f0edfc.jpg"  width="520">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=16&color=9700BC&center=true&vCenter=true&width=500&lines=watchu+buildin+down+there+buddy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=16&color=9700BC&center=true&vCenter=true&width=500&lines=watchu+buildin+down+there+buddy+%5C(๑%3E؂•̀๑%5C)" />
 </p>
 <br> <br>
 
