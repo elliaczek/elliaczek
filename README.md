@@ -18,7 +18,7 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
 ╰─────────────── ⋆｡°✩°｡⋆ ───────────────╯
 
 <p align="center">
-  <img src="text3.svg" width="700">
+  <img src="text4.svg" width="700">
 </p>
 
 <br>
