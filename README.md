@@ -1,10 +1,10 @@
+<p align="center"> <img src="a874dff4f362a30933fd8028426eba7e-removebg-preview.png (2).png" width="520"> </p> 
 <p align="center"> <sub>♡ art cr. <ins>rinnyki</ins> on pin ♡</sub> </p>
 <p align="center"> <img src="7aab439a43aaa16234eb1318b9f0edfc-removebg-preview (2).png" width="520"> </p> 
 <p align="center">
   <img src="text5.svg" width="700">
 </p>
 <div align="center">
-
 ╭─────────────── ⋆｡°✩°｡⋆ ───────────────╮
 
 
@@ -18,7 +18,6 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
 
 
 ╰─────────────── ⋆｡°✩°｡⋆ ───────────────╯
-
 <p align="center">
   <img src="text4.svg" width="700">
 </p>
