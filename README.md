@@ -1,4 +1,4 @@
-<p align="center"> <img src="a874dff4f362a30933fd8028426eba7e-removebg-preview.png (2).png" width="520"> </p> 
+<p align="center"> <img src="a874dff4f362a30933fd8028426eba7e-removebg-preview.png" width="520"> </p> 
 <p align="center"> <sub>♡ art cr. <ins>rinnyki</ins> on pin ♡</sub> </p>
 <p align="center"> <img src="7aab439a43aaa16234eb1318b9f0edfc-removebg-preview (2).png" width="520"> </p> 
 <p align="center">
