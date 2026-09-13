@@ -3,17 +3,9 @@
 <p align="center">
   <img src="7aab439a43aaa16234eb1318b9f0edfc.jpg"  width="520">
 </p>
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="45" viewBox="0 0 600 45">
-  <text x="300" y="28"
-        text-anchor="middle"
-        fill="#9700bc"
-        font-family="Arial, sans-serif"
-        font-size="16"
-        font-style="italic">
-    watchu buildin down there buddy \(๑&gt;؂•̀๑\)
-  </text>
-</svg>
-
+<p align="center">
+  <img src="./text.svg" alt="watchu buildin down there buddy \(๑>؂•̀๑\)">
+</p>
 <br> <br>
 
 im pretty awkward around people i dont know so pls dont take it personally if i dont answer or seem like i dont want to talk!! i really do want to have a good convo but its hard for me (ᵕ ╥ᆺ╥)
