@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="700"
+     height="40"
+     viewBox="0 0 700 40">
+
+  <style>
+    .text {
+      font-family: "Trebuchet MS", sans-serif;
+      font-size: 16px;
+      fill: #5B0F70;
+      animation: float 3.5s ease-in-out infinite;
+    }
+
+    @keyframes float {
+      0%, 100% {
+        opacity: 0.5;
+        transform: translateY(2px);
+      }
+
+      50% {
+        opacity: 1;
+        transform: translateY(-2px);
+      }
+    }
+  </style>
+
+  <text x="350"
+        y="25"
+        text-anchor="middle"
+        class="text">
+
+    an
+    <tspan font-weight="bold">end</tspan>
+    project? (O_O)
+    <tspan font-style="italic">woooow</tspan>
+    ... i wonder..
+    <tspan font-style="italic">what it is</tspan>
+    !!
+    <tspan font-weight="bold" font-style="italic">what is it</tspan>
+    ??!!! (⁠ꏿ⁠﹏⁠ꏿ⁠;⁠)
+
+  </text>
+
+</svg>
