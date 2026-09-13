@@ -3,8 +3,33 @@
         text-anchor="middle"
         fill="#5B0F70"
         font-family="Trebuchet MS, sans-serif"
-        font-size="16"
-        font-style="italic">
-    an **end** project? (O_O) *woooow*... i wonder.. *what it is*!! ***what is it***??!!! (⁠ꏿ⁠﹏⁠ꏿ⁠;⁠)
+        font-size="16">
+
+    an
+
+    <tspan font-weight="bold">
+      end
+    </tspan>
+
+    project? (O_O)
+
+    <tspan font-style="italic">
+      woooow
+    </tspan>
+
+    ... i wonder..
+
+    <tspan font-style="italic">
+      what it is
+    </tspan>
+
+    !!
+
+    <tspan font-weight="bold" font-style="italic">
+      what is it
+    </tspan>
+
+    ??!!! (⁠ꏿ⁠﹏⁠ꏿ⁠;⁠)
+
   </text>
 </svg>
