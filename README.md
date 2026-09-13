@@ -15,3 +15,5 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
 ╰─────────────── ⋆｡°✩°｡⋆ ───────────────╯
 
 </div>
+
+<div align="center"> <font face="Georgia"> <i> "an <b>end</b> project? (O_O) <i>woooow...</i><br> i wonder.. <i>what it is</i>!! <b><i>what is it</i></b>??!!! (⁠ꏿ⁠﹏⁠ꏿ⁠;⁠) </i> </font> </div>
