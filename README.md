@@ -1,4 +1,3 @@
-<p align="center"> <img src="39f7d7adbcba309fdaeae61ad97f3705-removebg-preview.png" width="520"> </p> 
 <p align="center"> <sub>♡ art cr. <ins>rinnyki</ins> on pin ♡</sub> </p>
 <p align="center"> <img src="7aab439a43aaa16234eb1318b9f0edfc-removebg-preview (2).png" width="520"> </p> 
 <p align="center">
