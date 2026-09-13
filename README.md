@@ -3,7 +3,9 @@
 <p align="center">
   <img src="7aab439a43aaa16234eb1318b9f0edfc.jpg"  width="520">
 </p>
-<p align="center">watchu buildin down there buddy \(๑>؂•̀๑\)</p>
+<p align="center">
+  <img src="./text.svg" alt="watchu buildin down there buddy">
+</p>
 <br> <br>
 
 im pretty awkward around people i dont know so pls dont take it personally if i dont answer or seem like i dont want to talk!! i really do want to have a good convo but its hard for me (ᵕ ╥ᆺ╥)
