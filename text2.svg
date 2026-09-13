@@ -1,35 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="40" viewBox="0 0 700 40">
-  <text x="350" y="25"
+
+  <text x="350"
+        y="25"
         text-anchor="middle"
         fill="#5B0F70"
         font-family="Trebuchet MS, sans-serif"
         font-size="16">
 
-    an
+    <tspan font-family="Trebuchet MS, sans-serif">
+      an
+    </tspan>
 
-    <tspan font-weight="bold">
+    <tspan font-family="Trebuchet MS, sans-serif"
+           font-weight="700">
       end
     </tspan>
 
-    project? (O_O)
+    <tspan font-family="Trebuchet MS, sans-serif">
+      project? (O_O)
+    </tspan>
 
-    <tspan font-style="italic">
+    <tspan font-family="Trebuchet MS, sans-serif"
+           font-style="italic">
       woooow
     </tspan>
 
-    ... i wonder..
+    <tspan font-family="Trebuchet MS, sans-serif">
+      ... i wonder..
+    </tspan>
 
-    <tspan font-style="italic">
+    <tspan font-family="Trebuchet MS, sans-serif"
+           font-style="italic">
       what it is
     </tspan>
 
-    !!
+    <tspan font-family="Trebuchet MS, sans-serif">
+      !!
+    </tspan>
 
-    <tspan font-weight="bold" font-style="italic">
+    <tspan font-family="Trebuchet MS, sans-serif"
+           font-weight="700"
+           font-style="italic">
       what is it
     </tspan>
 
-    ??!!! (⁠ꏿ⁠﹏⁠ꏿ⁠;⁠)
+    <tspan font-family="Trebuchet MS, sans-serif">
+      ??!!! (⁠ꏿ⁠﹏⁠ꏿ⁠;⁠)
+    </tspan>
 
   </text>
+
 </svg>
