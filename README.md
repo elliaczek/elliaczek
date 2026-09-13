@@ -15,6 +15,13 @@ aside from that, i <b>love</b> sitting n cuddling with others even if we dont kn
 i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b>w2i</b> so i can see your message sooner or later (ᵕ—ᴗ—) <br>
 
 ╰─────────────── ⋆｡°✩°｡⋆ ───────────────╯
+<div style="text-align: center; font-family: 'Trebuchet MS', sans-serif;">
+  <a href="https://d3athtrap.straw.page/" style="margin: 0 8px;">strawpage</a>
+  <a href="https://naukosick.carrd.co/" style="margin: 0 8px;">carrd</a>
+  <a href="https://deathtrapduo.atabook.org/" style="margin: 0 8px;">atabook</a>
+  <a href="https://rentry.co/elliaczek" style="margin: 0 8px;">duo list</a>
+</div>
+<br>
 <p align="center">
   <img src="text4.svg" width="700">
 </p>
