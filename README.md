@@ -4,8 +4,7 @@
   <img src="text5.svg" width="700">
 </p>
 <div align="center">
-╭─────────────── ⋆｡°✩°｡⋆ ───────────────╮
-
+╭─────────────── ⋆｡°✩°｡⋆ ───────────────╮ <br><br>
 
 im pretty awkward around people i dont know so pls dont take it personally if i dont answer or seem like i dont want to talk!! i really <i>do</i> want to have a good convo, but its kinda hard for me sometimes (ᵕ ╥ᆺ╥)
 
@@ -13,8 +12,7 @@ im pretty awkward around people i dont know so pls dont take it personally if i 
 aside from that, i <b>love</b> sitting n cuddling with others even if we dont know each other!! ⸜(｡˃ ᵕ ˂ )⸝♡ <b>so c+h enc ♡</b>
 
 
-i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b>w2i</b> so i can see your message sooner or later ♡
-
+i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b>w2i</b> so i can see your message sooner or later ♡ <br>
 
 ╰─────────────── ⋆｡°✩°｡⋆ ───────────────╯
 <p align="center">
