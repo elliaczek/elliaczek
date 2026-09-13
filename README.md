@@ -4,7 +4,6 @@
   <img src="text5.svg" width="700">
 </p>
 <div align="center">
-<br> <div align="center">
 
 ╭─────────────── ⋆｡°✩°｡⋆ ───────────────╮
 
@@ -24,6 +23,3 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
   <img src="text4.svg" width="700">
 </p>
 
-<br>
-
-<div align="center">
