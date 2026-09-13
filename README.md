@@ -14,3 +14,10 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
 
 ╰─────────────── ⋆｡°✩°｡⋆ ───────────────╯
 
+<p align="center">
+  <img src="text2.svg" width="700">
+</p>
+
+<br>
+
+<div align="center">
