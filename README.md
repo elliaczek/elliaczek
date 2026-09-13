@@ -3,9 +3,17 @@
 <p align="center">
   <img src="7aab439a43aaa16234eb1318b9f0edfc.jpg"  width="520">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=16&color=9700BC&center=true&vCenter=true&width=500&lines=watchu+buildin+down+there+buddy+\(๑>؂•̀๑\)" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="45" viewBox="0 0 600 45">
+  <text x="300" y="28"
+        text-anchor="middle"
+        fill="#9700bc"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        font-style="italic">
+    watchu buildin down there buddy \(๑&gt;؂•̀๑\)
+  </text>
+</svg>
+
 <br> <br>
 
 im pretty awkward around people i dont know so pls dont take it personally if i dont answer or seem like i dont want to talk!! i really do want to have a good convo but its hard for me (ᵕ ╥ᆺ╥)
