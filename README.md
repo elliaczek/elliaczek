@@ -4,7 +4,7 @@
   <img src="7aab439a43aaa16234eb1318b9f0edfc.jpg"  width="520">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=16&duration=400&pause=1500&color=9700BC&center=true&vCenter=true&width=600&lines=watchu+buildin+down+there+buddy+%5C%281%E0%B9%91%3E%D8%82%E2%80%A2%CC%80%E0%B9%91%5C%29" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=16&duration=1500&pause=1500&color=9700BC&center=true&vCenter=true&width=600&lines=watchu+buildin+down+there+buddy+%5C%281%E0%B9%91%3E%D8%82%E2%80%A2%CC%80%E0%B9%91%5C%29" />
 </p>
 <br> <br>
 
