@@ -1,4 +1,4 @@
-<svg width="700" height="90" viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="100" viewBox="0 0 700 100">
 
   <style>
     .text {
@@ -14,65 +14,85 @@
       fill: #6a2865;
     }
 
-    /* Pierwszy cytat */
     .line1 {
       clip-path: inset(0 100% 0 0);
-      animation: typing1 4s steps(43, end) forwards,
-                 hide1 0.1s 6s forwards;
+      animation:
+        typing1 4s steps(43, end) forwards,
+        hide1 0.1s 7.5s forwards;
     }
 
     .line2 {
       clip-path: inset(0 100% 0 0);
-      animation: typing2 3.2s steps(32, end) 4s forwards,
-                 hide2 0.1s 6s forwards;
+      animation:
+        typing2 3.2s steps(32, end) 4s forwards,
+        hide2 0.1s 7.5s forwards;
     }
 
-    /* Drugi cytat — pojawia się dopiero po zakończeniu pierwszego */
     .answer {
-      clip-path: inset(0 0 0 100%);
-      animation: typingAnswer 2.2s steps(25, end) 6s forwards,
-                 hideAnswer 0.1s 10s forwards;
+      clip-path: inset(0 100% 0 0);
+      animation:
+        typingAnswer 2.2s steps(25, end) 7.6s forwards,
+        hideAnswer 0.1s 11s forwards;
     }
 
     @keyframes typing1 {
-      from { clip-path: inset(0 100% 0 0); }
-      to   { clip-path: inset(0 0 0 0); }
+      from {
+        clip-path: inset(0 100% 0 0);
+      }
+      to {
+        clip-path: inset(0 0 0 0);
+      }
     }
 
     @keyframes typing2 {
-      from { clip-path: inset(0 100% 0 0); }
-      to   { clip-path: inset(0 0 0 0); }
+      from {
+        clip-path: inset(0 100% 0 0);
+      }
+      to {
+        clip-path: inset(0 0 0 0);
+      }
     }
 
     @keyframes typingAnswer {
-      from { clip-path: inset(0 0 0 100%); }
-      to   { clip-path: inset(0 0 0 0); }
+      from {
+        clip-path: inset(0 100% 0 0);
+      }
+      to {
+        clip-path: inset(0 0 0 0);
+      }
     }
 
     @keyframes hide1 {
-      to { opacity: 0; }
+      to {
+        opacity: 0;
+      }
     }
 
     @keyframes hide2 {
-      to { opacity: 0; }
+      to {
+        opacity: 0;
+      }
     }
 
     @keyframes hideAnswer {
-      to { opacity: 0; }
+      to {
+        opacity: 0;
+      }
     }
   </style>
 
-  <!-- Pierwszy cytat -->
+
   <text x="0" y="25" class="text first line1">
     like, obviously, we don't like each other.
   </text>
+
 
   <text x="0" y="50" class="text first line2">
     you've done some things to me that-
   </text>
 
-  <!-- Drugi cytat -->
-  <text x="700" y="38" text-anchor="end" class="text second answer">
+
+  <text x="700" y="75" text-anchor="end" class="text second answer">
     when have i not liked you?
   </text>
 
