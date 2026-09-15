@@ -1,7 +1,7 @@
 <p align="center"> <sub>♡ art cr. <ins>rinnyki</ins> on pin ♡</sub> </p>
 <p align="center"> <img src="7aab439a43aaa16234eb1318b9f0edfc-removebg-preview (2).png" width="400"> </p> 
 <p align="center">
-  <img src="text5.svg" width="700">
+  <img src="text5.svg" width="670">
 </p>
 <div align="center">
 ╭─────────────── ⋆｡°✩°｡⋆ ───────────────╮ <br><br>
@@ -23,7 +23,7 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
 </div>
 <br>
 <p align="center">
-  <img src="text4.svg" width="700">
+  <img src="text4.svg" width="670">
 </p>
 <!-- <p align="center"> <img src="zd-removebg-preview(1).png" width="220"> </p> 
 <p align="center"> <sub>♡ art cr. <ins>n3gr0ni</ins> on twt ♡</sub> </p>
@@ -42,7 +42,7 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
 </p>
 
 <p align="center">
-  <img src="t9.svg" width="700">
+  <img src="t9.svg" width="670">
 </p>
 <!-- <p align="center"> <img src="e61ec6bdec7722a804180487a2aa2111-removebg-preview.png" width="220"> </p> 
 <p align="center"> <sub>♡ art cr. <ins>yippyww.1</ins> on ig ♡</sub> </p>
