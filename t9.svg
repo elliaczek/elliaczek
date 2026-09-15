@@ -1,5 +1,7 @@
-<svg width="700" height="100" viewBox="0 0 700 100"
-     xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="700"
+     height="100"
+     viewBox="0 0 700 100">
 
   <style>
     .text {
@@ -14,70 +16,78 @@
     .second {
       fill: #6a2865;
     }
+
+    .reveal1 {
+      animation: type1 3.2s steps(43, end) forwards;
+    }
+
+    .reveal2 {
+      animation: type2 2.6s steps(32, end) 3.2s forwards;
+    }
+
+    .reveal3 {
+      animation: type3 1.8s steps(25, end) 5.8s forwards;
+    }
+
+    @keyframes type1 {
+      from { width: 0px; }
+      to { width: 700px; }
+    }
+
+    @keyframes type2 {
+      from { width: 0px; }
+      to { width: 700px; }
+    }
+
+    @keyframes type3 {
+      from { width: 0px; }
+      to { width: 700px; }
+    }
   </style>
 
-  <defs>
+  <mask id="mask1">
+    <rect class="reveal1"
+          x="0" y="0"
+          width="0" height="100"
+          fill="white"/>
+  </mask>
 
-    <!-- mask for first line -->
-    <clipPath id="clip1">
-      <rect x="0" y="0" width="0" height="100">
-        <animate
-          attributeName="width"
-          from="0"
-          to="700"
-          dur="4s"
-          begin="0s"
-          fill="freeze"
-        />
-      </rect>
-    </clipPath>
+  <mask id="mask2">
+    <rect class="reveal2"
+          x="0" y="0"
+          width="0" height="100"
+          fill="white"/>
+  </mask>
 
-    <!-- mask for second line -->
-    <clipPath id="clip2">
-      <rect x="0" y="0" width="0" height="100">
-        <animate
-          attributeName="width"
-          from="0"
-          to="700"
-          dur="3.2s"
-          begin="4s"
-          fill="freeze"
-        />
-      </rect>
-    </clipPath>
+  <mask id="mask3">
+    <rect class="reveal3"
+          x="0" y="0"
+          width="0" height="100"
+          fill="white"/>
+  </mask>
 
-    <!-- mask for answer -->
-    <clipPath id="clip3">
-      <rect x="0" y="0" width="0" height="100">
-        <animate
-          attributeName="width"
-          from="0"
-          to="700"
-          dur="2.2s"
-          begin="7.6s"
-          fill="freeze"
-        />
-      </rect>
-    </clipPath>
 
-  </defs>
-
-  <text x="0" y="25"
+  <text x="0"
+        y="25"
         class="text first"
-        clip-path="url(#clip1)">
+        mask="url(#mask1)">
     like, obviously, we don't like each other.
   </text>
 
-  <text x="0" y="50"
+
+  <text x="0"
+        y="50"
         class="text first"
-        clip-path="url(#clip2)">
+        mask="url(#mask2)">
     you've done some things to me that-
   </text>
 
-  <text x="700" y="75"
+
+  <text x="700"
+        y="75"
         text-anchor="end"
         class="text second"
-        clip-path="url(#clip3)">
+        mask="url(#mask3)">
     when have i not liked you?
   </text>
 
