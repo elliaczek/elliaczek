@@ -27,3 +27,7 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
 </p>
 <p align="center"> <img src="e61ec6bdec7722a804180487a2aa2111-removebg-preview.png" width="220"> </p> 
 <p align="center"> <sub>♡ art cr. <ins>yippyww.1</ins> on ig ♡</sub> </p>
+<br>
+<p align="center">
+  <img src="t9.svg" width="700">
+</p>
