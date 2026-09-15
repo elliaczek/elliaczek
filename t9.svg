@@ -1,0 +1,84 @@
+<svg width="700" height="100" viewBox="0 0 700 100"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .text {
+      font-family: "Trebuchet MS", sans-serif;
+      font-size: 16px;
+    }
+
+    .first {
+      fill: #2a563d;
+    }
+
+    .second {
+      fill: #6a2865;
+    }
+  </style>
+
+  <defs>
+
+    <!-- mask for first line -->
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="0" height="100">
+        <animate
+          attributeName="width"
+          from="0"
+          to="700"
+          dur="4s"
+          begin="0s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- mask for second line -->
+    <clipPath id="clip2">
+      <rect x="0" y="0" width="0" height="100">
+        <animate
+          attributeName="width"
+          from="0"
+          to="700"
+          dur="3.2s"
+          begin="4s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- mask for answer -->
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="0" height="100">
+        <animate
+          attributeName="width"
+          from="0"
+          to="700"
+          dur="2.2s"
+          begin="7.6s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+
+  </defs>
+
+  <text x="0" y="25"
+        class="text first"
+        clip-path="url(#clip1)">
+    like, obviously, we don't like each other.
+  </text>
+
+  <text x="0" y="50"
+        class="text first"
+        clip-path="url(#clip2)">
+    you've done some things to me that-
+  </text>
+
+  <text x="700" y="75"
+        text-anchor="end"
+        class="text second"
+        clip-path="url(#clip3)">
+    when have i not liked you?
+  </text>
+
+</svg>
