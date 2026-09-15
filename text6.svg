@@ -14,66 +14,33 @@
       fill: #6a2865;
     }
 
-    /* Pierwszy cytat */
+    /* Pierwsza linijka */
     .line1 {
       clip-path: inset(0 100% 0 0);
-      animation: typing1 4s steps(43, end) forwards,
-                 hide1 0.1s 6s forwards;
+      animation: typeLine1 8s steps(43, end) infinite;
     }
 
+    /* Druga linijka */
     .line2 {
       clip-path: inset(0 100% 0 0);
-      animation: typing2 3.2s steps(32, end) 4s forwards,
-                 hide2 0.1s 6s forwards;
+      animation: typeLine2 8s steps(32, end) infinite;
     }
 
-    /* Drugi cytat — pojawia się dopiero po zakończeniu pierwszego */
+    /* Odpowiedź od prawej */
     .answer {
       clip-path: inset(0 0 0 100%);
-      animation: typingAnswer 2.2s steps(25, end) 6s forwards,
-                 hideAnswer 0.1s 10s forwards;
+      animation: typeAnswer 8s steps(25, end) infinite;
     }
 
-    @keyframes typing1 {
-      from { clip-path: inset(0 100% 0 0); }
-      to   { clip-path: inset(0 0 0 0); }
-    }
+    @keyframes typeLine1 {
+      0% {
+        clip-path: inset(0 100% 0 0);
+        opacity: 1;
+      }
 
-    @keyframes typing2 {
-      from { clip-path: inset(0 100% 0 0); }
-      to   { clip-path: inset(0 0 0 0); }
-    }
+      5% {
+        clip-path: inset(0 0 0 0);
+        opacity: 1;
+      }
 
-    @keyframes typingAnswer {
-      from { clip-path: inset(0 0 0 100%); }
-      to   { clip-path: inset(0 0 0 0); }
-    }
-
-    @keyframes hide1 {
-      to { opacity: 0; }
-    }
-
-    @keyframes hide2 {
-      to { opacity: 0; }
-    }
-
-    @keyframes hideAnswer {
-      to { opacity: 0; }
-    }
-  </style>
-
-  <!-- Pierwszy cytat -->
-  <text x="0" y="25" class="text first line1">
-    like, obviously, we don't like each other.
-  </text>
-
-  <text x="0" y="50" class="text first line2">
-    you've done some things to me that-
-  </text>
-
-  <!-- Drugi cytat -->
-  <text x="700" y="38" text-anchor="end" class="text second answer">
-    when have i not liked you?
-  </text>
-
-</svg>
+      43
