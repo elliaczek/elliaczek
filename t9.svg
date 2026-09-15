@@ -22,11 +22,11 @@
     }
 
     .reveal2 {
-      animation: type2 2.6s steps(32, end) 3.2s forwards;
+      animation: type2 2.6s steps(32, end) 3.25s forwards;
     }
 
     .reveal3 {
-      animation: type3 1.8s steps(25, end) 5.8s forwards;
+      animation: type3 1.8s steps(25, end) 5.85s forwards;
     }
 
     @keyframes type1 {
@@ -66,25 +66,19 @@
           fill="white"/>
   </mask>
 
-
-  <text x="0"
-        y="25"
+  <text x="0" y="25"
         class="text first"
         mask="url(#mask1)">
     like, obviously, we don't like each other.
   </text>
 
-
-  <text x="0"
-        y="50"
+  <text x="0" y="50"
         class="text first"
         mask="url(#mask2)">
     you've done some things to me that-
   </text>
 
-
-  <text x="700"
-        y="75"
+  <text x="700" y="75"
         text-anchor="end"
         class="text second"
         mask="url(#mask3)">
