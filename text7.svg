@@ -1,0 +1,127 @@
+<svg width="700" height="90" viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .text {
+      font-family: "Trebuchet MS", sans-serif;
+      font-size: 16px;
+    }
+
+    .first {
+      fill: #2a563d;
+    }
+
+    .second {
+      fill: #6a2865;
+    }
+
+    .line1 {
+      clip-path: inset(0 100% 0 0);
+      animation:
+        type1 4s steps(43, end) infinite,
+        fadeGreen 10s linear infinite;
+    }
+
+    .line2 {
+      clip-path: inset(0 100% 0 0);
+      animation:
+        type2 3s steps(32, end) 3s infinite,
+        fadeGreen2 10s linear infinite;
+    }
+
+    .answer {
+      clip-path: inset(0 0 0 100%);
+      animation:
+        typeAnswer 2.2s steps(25, end) 6s infinite,
+        fadeAnswer 10s linear infinite;
+    }
+
+    @keyframes type1 {
+      0% {
+        clip-path: inset(0 100% 0 0);
+      }
+
+      40% {
+        clip-path: inset(0 0 0 0);
+      }
+
+      100% {
+        clip-path: inset(0 0 0 0);
+      }
+    }
+
+    @keyframes type2 {
+      0% {
+        clip-path: inset(0 100% 0 0);
+      }
+
+      30% {
+        clip-path: inset(0 0 0 0);
+      }
+
+      100% {
+        clip-path: inset(0 0 0 0);
+      }
+    }
+
+    @keyframes typeAnswer {
+      0% {
+        clip-path: inset(0 0 0 100%);
+      }
+
+      30% {
+        clip-path: inset(0 0 0 0);
+      }
+
+      100% {
+        clip-path: inset(0 0 0 0);
+      }
+    }
+
+    @keyframes fadeGreen {
+      0%,
+      58% {
+        opacity: 1;
+      }
+
+      60%,
+      100% {
+        opacity: 0;
+      }
+    }
+
+    @keyframes fadeGreen2 {
+      0%,
+      58% {
+        opacity: 1;
+      }
+
+      60%,
+      100% {
+        opacity: 0;
+      }
+    }
+
+    @keyframes fadeAnswer {
+      0%,
+      59% {
+        opacity: 0;
+      }
+
+      60%,
+      95% {
+        opacity: 1;
+      }
+
+      100% {
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <text x="0" y="25" class="text first line1">like, obviously, we don't like each other.</text>
+
+  <text x="0" y="50" class="text first line2">you've done some things to me that-</text>
+
+  <text x="700" y="38" text-anchor="end" class="text second answer">when have i not liked you?</text>
+
+</svg>
