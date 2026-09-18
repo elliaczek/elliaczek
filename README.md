@@ -1,8 +1,6 @@
 <p align="center"> <sub>♡ art cr. <ins>rinnyki</ins> on pin ♡</sub> </p>
-<p align="center"> <img src="7aab439a43aaa16234eb1318b9f0edfc-removebg-preview (2).png" width="400"> </p> 
-<p align="center">
-  <img src="text5.svg" width="670">
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/elliaczek/elliaczek/refs/heads/main/7aab439a43aaa16234eb1318b9f0edfc-removebg-preview%20(2).png" width="400"> </p> 
+<p align="center"> <img src="https://raw.githubusercontent.com/elliaczek/elliaczek/aa1dfdeba1e18d03934ea8c899843c443fced3b7/text5.svg" width="670"> </p> 
 <div align="center">
 ╭─────────────── ⋆｡°✩°｡⋆ ───────────────╮ <br><br>
 
@@ -22,17 +20,11 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
   <a href="https://rentry.co/elliaczek" style="margin: 0 8px;">duo list</a>
 </div>
 <br>
+<p align="center"> <img src="https://raw.githubusercontent.com/elliaczek/elliaczek/aa1dfdeba1e18d03934ea8c899843c443fced3b7/text4.svg" width="670"> </p> 
 <p align="center">
-  <img src="text4.svg" width="670">
-</p>
-<!-- <p align="center"> <img src="zd-removebg-preview(1).png" width="220"> </p> 
-<p align="center"> <sub>♡ art cr. <ins>n3gr0ni</ins> on twt ♡</sub> </p>
-<br>
--->
-<p align="center">
-  <img src="zd-removebg-preview(1).png" width="220">
+  <img src="https://raw.githubusercontent.com/elliaczek/elliaczek/refs/heads/main/zd-removebg-preview(1).png" width="220">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="e61ec6bdec7722a804180487a2aa2111-removebg-preview.png" width="220">
+  <img src="https://raw.githubusercontent.com/elliaczek/elliaczek/refs/heads/main/e61ec6bdec7722a804180487a2aa2111-removebg-preview.png" width="220">
 </p>
 
 <p align="center">
@@ -41,9 +33,4 @@ i usually have pt <b>offtab</b> and <b>im afk</b> most of the time so pls pls <b
   <sub>♡ art cr. <ins>yippyww.1</ins> on ig ♡</sub>
 </p>
 
-<p align="center">
-  <img src="t9.svg" width="670">
-</p>
-<!-- <p align="center"> <img src="e61ec6bdec7722a804180487a2aa2111-removebg-preview.png" width="220"> </p> 
-<p align="center"> <sub>♡ art cr. <ins>yippyww.1</ins> on ig ♡</sub> </p>
--->
+<p align="center"> <img src="https://raw.githubusercontent.com/elliaczek/elliaczek/aa1dfdeba1e18d03934ea8c899843c443fced3b7/t9.svg" width="670"> </p> 
