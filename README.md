@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/elliaczek/elliaczek/1f7101c2fef7aaf330ad5c339f3fc4cb3a7b9434/promise.svg" width="670"> </p> 
 <p align="center"> <sub>♡ art cr. <ins>rinnyki</ins> on pin ♡</sub> </p>
 <p align="center"> <img src="https://raw.githubusercontent.com/elliaczek/elliaczek/refs/heads/main/7aab439a43aaa16234eb1318b9f0edfc-removebg-preview%20(2).png" width="400"> </p> 
 <p align="center"> <img src="https://raw.githubusercontent.com/elliaczek/elliaczek/aa1dfdeba1e18d03934ea8c899843c443fced3b7/text5.svg" width="670"> </p> 
